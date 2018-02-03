@@ -15,3 +15,6 @@ describe Crystal::Test::Proj do
     true.should_not eq(true)
   end
 end
+
+
+# test suite runs on "crystal spec"
