@@ -1,0 +1,9 @@
+name: crystal-test-proj
+version: 0.1.0
+
+authors:
+  - Jim Kyle <jim@jwkyle.com>
+
+crystal: 0.24.1
+
+license: MIT
